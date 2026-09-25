@@ -10,7 +10,7 @@ The pilot system is the **Ter basin**, including the Sau and Susqueda reservoirs
 |---|------|------------|----------|------|-------|---------|--------|
 | 1 | 27–31 Oct 2025 | GLEON 2025 All Hands' Meeting | Virtual (host site: Brasil) | Poster | Digital twins for the prediction and management of water quality and coastal dynamics | D. Mercado-Bettín, J. Pagès, R. Marcé | [PDF](GLEON2025_poster_MercadoBettin.pdf) |
 | 2 | 22–26 Jun 2026 | XXIII Congress of the Iberian Association of Limnology (AIL 2026) | Bilbao, Spain | Oral presentation | Forecasting for adaptive reservoir management | D. Mercado-Bettín, R. Marcé | [PDF](AIL2026_oralpresentation_MercadoBettin.pdf) |
-| 3 | 30 Aug – 4 Sep 2026 | GLEON 2026 All Hands' Meeting | Banyoles, Spain | Poster (abstract 2.3) | Forecasting how much water a reservoir will hold, and what state it will be in, months ahead | D. Mercado-Bettín, R. Marcé | [PDF](GLEON2026_poster_Mercado-Bettin.pdf) |
+| 3 | 30 Aug – 4 Sep 2026 | GLEON 2026 All Hands' Meeting | Banyoles, Spain | Poster | Forecasting how much water a reservoir will hold, and what state it will be in, months ahead | D. Mercado-Bettín, R. Marcé | [PDF](GLEON2026_poster_Mercado-Bettin.pdf) |
 
 ## Contributions in detail
 
